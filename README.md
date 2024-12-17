@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Maëlle 🌱(◡‿◡✿)🌱</h1>
 <h3 align="left">A passionate fullstack developer based in Paris, France</h3>
 
-👩‍💻 I am actively seeking job opportunities !
-📫 How to reach me **maellepoirier@outlook.com**
+👩‍💻 I am actively seeking job opportunities !</br>
+📫 How to reach me **maellepoirier@outlook.com**</br>
 
 <p align="left">
 </p>
