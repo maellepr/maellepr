@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Maëlle 🌱(◡‿◡✿)🌱</h1>
-<h3 align="left">A passionate fullstack developer based in Paris, France</h3>
+<h3 align="left">A passionate developer based in Paris, France</h3>
 
 👩‍💻 I am actively seeking job opportunities !</br>
 📫 How to reach me **maellepoirier@outlook.com**</br>
